@@ -14,4 +14,5 @@ For more details, see the [wiki](https://github.com/lhiep/free-weight-game-contr
 ### DEMO
 [Click here or the thumbnail below to see the demo video!](https://youtu.be/GNgz_vPB7HU)  
 NOTE: The video has sound. Please turn volume up if possible for clear description of the product.
+
 [![Thumbnail](https://img.youtube.com/vi/GNgz_vPB7HU/0.jpg)](https://youtu.be/GNgz_vPB7HU)
