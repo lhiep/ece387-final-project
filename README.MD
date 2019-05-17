@@ -8,7 +8,8 @@
 ### GOALS
 The goal of this project is to construct a transmitter that can be easily attached to free weights at the gym. The transmitter will then sends signal to the receiver, connected to a computer, to play custom made games. This allows the user to get their routine workout done with enjoying the fun of playing games.
 
-### WILI
+### WIKI
+For more details, see the [wiki](https://github.com/lhiep/free-weight-game-controller/wiki)
 
 ### DEMO
 [Click here or the thumbnail below to see the demo video!](https://youtu.be/GNgz_vPB7HU)  
