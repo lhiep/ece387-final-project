@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  padding-top: 100px;
+}
+
+@font-face {
+  font-family: 'fb';
+  src: url('/fonts/flappybird.TTF');
+}
